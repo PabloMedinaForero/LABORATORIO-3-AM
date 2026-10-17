@@ -1,0 +1,107 @@
+﻿,importancia
+cat__frecuencia_cafeteria_nunca,0.39942713581986483
+cat__destino_Sin lugar urgente,0.11592881918936308
+cat__frecuencia_cafeteria_menos de 1,0.11228679973982642
+cat__misma_direccion_Sí,0.07186644348379877
+cat__hora_10:00 a.m.,0.04821207604537713
+cat__vigencia_cupon_1 día,0.04492316894395476
+cat__hora_10:00 p.m.,0.029846962781186415
+cat__genero_Masculino,0.027079278733202136
+cat__vigencia_cupon_2 horas,0.022591288394076
+cat__ocupacion_Estudiante,0.018778851607925303
+cat__frecuencia_restaurante_20_a_50_1 a 3,0.0184725207278739
+cat__destino_Trabajo,0.01680272752718791
+cat__ingreso_$50.000 - $62.499,0.016295082997109727
+cat__estado_civil_Unión libre,0.01498770917335605
+cat__educacion_Estudios universitarios sin título,0.010578975368867153
+cat__educacion_Bachillerato completo,0.008060742202940464
+cat__ocupacion_Arquitectura e Ingeniería,0.007648559378632042
+cat__frecuencia_cafeteria_más de 8,0.006552077775923095
+cat__ocupacion_Servicios de Protección y Seguridad,0.004175453543617611
+cat__ingreso_$37.500 - $49.999,0.0036160603474319516
+cat__frecuencia_bar_nunca,0.001869266218485371
+cat__ingreso_$100.000 o más,0.0
+cat__frecuencia_bar_1 a 3,0.0
+cat__ocupacion_Servicios Comunitarios y Sociales,0.0
+cat__frecuencia_bar_más de 8,0.0
+cat__frecuencia_bar_menos de 1,0.0
+cat__frecuencia_bar_4 a 8,0.0
+cat__ingreso_$87.500 - $99.999,0.0
+cat__ingreso_Menos de $12.500,0.0
+cat__ocupacion_Área Legal,0.0
+cat__ingreso_$75.000 - $87.499,0.0
+cat__ingreso_$62.500 - $74.999,0.0
+cat__ocupacion_Transporte y Manejo de Materiales,0.0
+cat__ocupacion_Ventas y afines,0.0
+cat__ingreso_$12.500 - $24.999,0.0
+cat__ingreso_$25.000 - $37.499,0.0
+cat__misma_direccion_No,0.0
+cat__frecuencia_cafeteria_1 a 3,0.0
+cat__frecuencia_cafeteria_4 a 8,0.0
+cat__tiempo_cupon_mayor_25min_No,0.0
+cat__tiempo_cupon_mayor_15min_Sí,0.0
+cat__tiempo_cupon_mayor_15min_No,0.0
+cat__frecuencia_restaurante_20_a_50_nunca,0.0
+cat__frecuencia_restaurante_20_a_50_más de 8,0.0
+cat__frecuencia_restaurante_20_a_50_menos de 1,0.0
+cat__frecuencia_restaurante_20_a_50_4 a 8,0.0
+cat__frecuencia_restaurante_menos_20_nunca,0.0
+cat__frecuencia_restaurante_menos_20_más de 8,0.0
+cat__frecuencia_restaurante_menos_20_menos de 1,0.0
+cat__frecuencia_restaurante_menos_20_4 a 8,0.0
+cat__frecuencia_restaurante_menos_20_1 a 3,0.0
+cat__frecuencia_comida_para_llevar_nunca,0.0
+cat__frecuencia_comida_para_llevar_más de 8,0.0
+cat__frecuencia_comida_para_llevar_menos de 1,0.0
+cat__frecuencia_comida_para_llevar_4 a 8,0.0
+cat__frecuencia_comida_para_llevar_1 a 3,0.0
+cat__ocupacion_Producción,0.0
+cat__tiempo_cupon_mayor_25min_Sí,0.0
+cat__ocupacion_Profesionales y Técnicos de la Salud,0.0
+num__temperatura,0.0
+cat__ocupacion_Preparación y Servicio de Alimentos,0.0
+cat__genero_Femenino,0.0
+cat__estado_civil_Casado(a),0.0
+cat__edad_menor de 21,0.0
+cat__edad_50 o más,0.0
+cat__edad_46,0.0
+cat__edad_41,0.0
+cat__edad_36,0.0
+cat__edad_31,0.0
+cat__edad_26,0.0
+cat__edad_21,0.0
+cat__hora_7:00 a.m.,0.0
+cat__ocupacion_Negocios y Finanzas,0.0
+cat__hora_6:00 p.m.,0.0
+cat__hora_2:00 p.m.,0.0
+cat__clima_Soleado,0.0
+cat__clima_Nevado,0.0
+cat__clima_Lluvioso,0.0
+cat__acompanante_Solo,0.0
+cat__acompanante_Pareja,0.0
+cat__acompanante_Hijo(s),0.0
+cat__acompanante_Amigo(s),0.0
+cat__estado_civil_Divorciado(a),0.0
+cat__estado_civil_Soltero(a),0.0
+cat__estado_civil_Viudo(a),0.0
+cat__tiene_hijos_No,0.0
+cat__ocupacion_Limpieza y Mantenimiento de Edificios,0.0
+cat__ocupacion_Jubilado(a),0.0
+"cat__ocupacion_Instalación, Mantenimiento y Reparación",0.0
+cat__destino_Casa,0.0
+"cat__ocupacion_Educación, Formación y Bibliotecología",0.0
+cat__ocupacion_Desempleado(a),0.0
+cat__ocupacion_Cuidado Personal y Servicios,0.0
+cat__ocupacion_Construcción y Extracción,0.0
+cat__ocupacion_Computación y Matemáticas,0.0
+cat__ocupacion_Ciencias Naturales y Sociales,0.0
+"cat__ocupacion_Artes, Diseño, Entretenimiento, Deportes y Medios",0.0
+cat__ocupacion_Apoyo en Salud,0.0
+cat__ocupacion_Apoyo Administrativo y de Oficina,0.0
+"cat__ocupacion_Agricultura, Pesca y Silvicultura",0.0
+cat__educacion_Técnico/Tecnólogo,0.0
+cat__educacion_Pregrado,0.0
+cat__educacion_Posgrado (Maestría o Doctorado),0.0
+cat__educacion_Bachillerato incompleto,0.0
+cat__tiene_hijos_Sí,0.0
+cat__ocupacion_Gerencia,0.0

@@ -1,0 +1,107 @@
+﻿,importancia
+cat__frecuencia_cafeteria_nunca,0.12910918125962328
+cat__frecuencia_cafeteria_1 a 3,0.03254046448804966
+cat__frecuencia_cafeteria_4 a 8,0.03128540623681023
+cat__vigencia_cupon_1 día,0.03033926607440883
+cat__vigencia_cupon_2 horas,0.029002913807190157
+cat__destino_Sin lugar urgente,0.028286383446851464
+cat__hora_10:00 a.m.,0.02211829206298085
+cat__destino_Casa,0.020828330351755953
+cat__hora_6:00 p.m.,0.017272313567973995
+num__temperatura,0.017195410493169968
+cat__frecuencia_cafeteria_menos de 1,0.016919959488719515
+cat__frecuencia_cafeteria_más de 8,0.015877593462859444
+cat__acompanante_Amigo(s),0.01561198599652323
+cat__acompanante_Solo,0.015042104970222623
+cat__tiempo_cupon_mayor_15min_Sí,0.013405749789146944
+cat__tiempo_cupon_mayor_15min_No,0.013175822423344547
+cat__frecuencia_bar_nunca,0.011748905069526994
+cat__frecuencia_restaurante_20_a_50_1 a 3,0.011144745118812235
+cat__frecuencia_restaurante_20_a_50_menos de 1,0.010768286829976303
+cat__ocupacion_Estudiante,0.0106082426176786
+cat__misma_direccion_Sí,0.010400230695995338
+cat__frecuencia_comida_para_llevar_4 a 8,0.010329693090357663
+cat__ingreso_$50.000 - $62.499,0.010208397413247045
+cat__educacion_Pregrado,0.010173710865602497
+cat__frecuencia_restaurante_menos_20_1 a 3,0.010056092618004393
+cat__estado_civil_Unión libre,0.009879237727699974
+cat__frecuencia_comida_para_llevar_1 a 3,0.009674488060899359
+cat__misma_direccion_No,0.009621171566648011
+cat__genero_Masculino,0.009535484579936361
+cat__ocupacion_Ventas y afines,0.009507116645743606
+cat__genero_Femenino,0.009449164319380105
+cat__frecuencia_bar_1 a 3,0.009312167618998725
+cat__edad_26,0.009311438330103769
+cat__frecuencia_bar_menos de 1,0.009202403968580205
+cat__frecuencia_restaurante_menos_20_4 a 8,0.008879225232511204
+cat__ingreso_$75.000 - $87.499,0.008855527101769026
+cat__educacion_Estudios universitarios sin título,0.008684102320873362
+cat__frecuencia_comida_para_llevar_menos de 1,0.008620765276571317
+cat__estado_civil_Casado(a),0.008590532346462183
+cat__tiene_hijos_No,0.008589586357533582
+cat__edad_21,0.0085602384202986
+cat__edad_50 o más,0.008451776325872963
+cat__ocupacion_Desempleado(a),0.008280261508382528
+cat__frecuencia_restaurante_20_a_50_nunca,0.00824182763970839
+cat__estado_civil_Soltero(a),0.008217694569308353
+cat__tiene_hijos_Sí,0.00807403628132368
+cat__frecuencia_restaurante_menos_20_menos de 1,0.008006668898881943
+cat__ingreso_$37.500 - $49.999,0.007975627127374985
+cat__educacion_Posgrado (Maestría o Doctorado),0.007796537597121444
+cat__ingreso_$12.500 - $24.999,0.007622654724414222
+cat__destino_Trabajo,0.007369243152545272
+cat__educacion_Bachillerato completo,0.007302173057764336
+cat__edad_41,0.007271770621822036
+cat__hora_2:00 p.m.,0.007239172718169187
+cat__edad_31,0.007219554935851377
+cat__clima_Soleado,0.006946327793692547
+cat__educacion_Técnico/Tecnólogo,0.00688634164188883
+cat__hora_7:00 a.m.,0.00687491235399139
+cat__ingreso_$100.000 o más,0.0068592771302426825
+cat__hora_10:00 p.m.,0.006833800251167592
+cat__ingreso_$25.000 - $37.499,0.0068129502615686755
+cat__edad_36,0.006712799844433992
+cat__ingreso_$62.500 - $74.999,0.006346526867500249
+cat__frecuencia_comida_para_llevar_más de 8,0.0063199663786041
+cat__frecuencia_bar_4 a 8,0.0060683875128610875
+cat__ocupacion_Gerencia,0.0060543781725602664
+"cat__ocupacion_Educación, Formación y Bibliotecología",0.005995371118082152
+cat__tiempo_cupon_mayor_25min_No,0.00557607165927776
+cat__edad_menor de 21,0.005387214513069076
+cat__frecuencia_restaurante_menos_20_más de 8,0.00538615594675663
+cat__ingreso_Menos de $12.500,0.005357761299422743
+cat__acompanante_Pareja,0.005016233992686989
+cat__ocupacion_Apoyo Administrativo y de Oficina,0.00492414341486558
+cat__tiempo_cupon_mayor_25min_Sí,0.004671820723764148
+"cat__ocupacion_Artes, Diseño, Entretenimiento, Deportes y Medios",0.004612487829255971
+cat__ocupacion_Computación y Matemáticas,0.004500198412944789
+cat__clima_Lluvioso,0.004439817109003647
+cat__clima_Nevado,0.0044271526775275
+cat__ocupacion_Negocios y Finanzas,0.0043353455620092985
+cat__ingreso_$87.500 - $99.999,0.004332289963669331
+cat__estado_civil_Divorciado(a),0.0040571222470180725
+cat__frecuencia_restaurante_20_a_50_4 a 8,0.003987364497611044
+cat__acompanante_Hijo(s),0.0038445413435855167
+cat__ocupacion_Jubilado(a),0.0037846441613837295
+cat__frecuencia_bar_más de 8,0.003678966441923881
+cat__ocupacion_Servicios Comunitarios y Sociales,0.0033944162991063243
+cat__edad_46,0.003267232922691807
+cat__ocupacion_Apoyo en Salud,0.0030445345701966393
+cat__frecuencia_restaurante_20_a_50_más de 8,0.0027685417923575366
+cat__ocupacion_Profesionales y Técnicos de la Salud,0.002656049511617395
+cat__ocupacion_Arquitectura e Ingeniería,0.002624052146331431
+"cat__ocupacion_Instalación, Mantenimiento y Reparación",0.0022444558900038465
+cat__ocupacion_Preparación y Servicio de Alimentos,0.0021706102384713264
+cat__ocupacion_Servicios de Protección y Seguridad,0.0021462958909083383
+cat__ocupacion_Ciencias Naturales y Sociales,0.002089360006320434
+cat__ocupacion_Transporte y Manejo de Materiales,0.002053547521000196
+cat__ocupacion_Construcción y Extracción,0.0020134410876039167
+cat__frecuencia_comida_para_llevar_nunca,0.0019167394216421253
+cat__ocupacion_Área Legal,0.0017494696037058004
+cat__frecuencia_restaurante_menos_20_nunca,0.0013157253385728054
+cat__estado_civil_Viudo(a),0.0012928073755070018
+cat__ocupacion_Cuidado Personal y Servicios,0.001146475890711818
+cat__ocupacion_Producción,0.0010469841183390653
+cat__educacion_Bachillerato incompleto,0.0008663817743625041
+cat__ocupacion_Limpieza y Mantenimiento de Edificios,0.00024081196793868817
+"cat__ocupacion_Agricultura, Pesca y Silvicultura",0.0001305642388598128

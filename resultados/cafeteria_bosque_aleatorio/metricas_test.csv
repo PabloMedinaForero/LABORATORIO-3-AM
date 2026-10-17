@@ -1,0 +1,2 @@
+﻿cupon,algoritmo,variante,elegida_por_cv,f1_macro_cv,clase_minoritaria,precision_si,recall_si,f1_si,f1_macro,recall_minoritaria
+Cafetería,bosque_aleatorio,sin_balanceo,True,0.7482458244885299,1,0.7160194174757282,0.743073047858942,0.7292954264524104,0.724800969931186,0.743073047858942

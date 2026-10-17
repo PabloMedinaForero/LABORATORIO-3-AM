@@ -1,0 +1,2 @@
+﻿cupon,algoritmo,variante,elegida_por_cv,f1_macro_cv,clase_minoritaria,precision_si,recall_si,f1_si,f1_macro,recall_minoritaria
+Cafetería,regresion_logistica,sin_balanceo,True,0.7193310572298649,1,0.6950354609929078,0.7405541561712846,0.7170731707317073,0.7082775180083407,0.7405541561712846

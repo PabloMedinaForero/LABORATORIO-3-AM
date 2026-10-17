@@ -1,5 +1,7 @@
 # Laboratorio 3 — Ruta Alpes
 
+La entrega integrada esta en [entrega/laboratorio_3_final.ipynb](entrega/laboratorio_3_final.ipynb), con su [HTML](entrega/laboratorio_3_final.html) y el [CSV de predicciones](entrega/Lab3_datos_Prueba.csv). Se ejecuto completa y sus nueve variantes reprodujeron los resultados originales. Revisar [entrega/LEEME.md](entrega/LEEME.md) y el guion del video para los detalles finales.
+
 Plantillas iniciales para desarrollar en equipo el laboratorio de clasificación de 202620, adaptadas a las prácticas 7–10 del curso. **No contienen ejecuciones, resultados ni conclusiones del laboratorio.** La limpieza queda a cargo del estudiante.
 
 Enunciado consultado: [Laboratorio 3_Clasificación.md](../MaterialDeClase-ISIS-2611/202620/Laboratorios/L3/Laboratorio%203_Clasificación.md).
@@ -73,7 +75,13 @@ python -m venv .venv
 .\.venv\Scripts\python.exe -m jupyter lab
 ```
 
-Elegir el kernel del entorno donde se instalaron las dependencias. En la revisión local se detectó que Anaconda tiene scikit-learn 1.3.0 e imbalanced-learn 0.10.1: esa pareja falla al importar SMOTE. No se modificó esa instalación. Las pruebas se realizaron cargando imbalanced-learn 0.11.0 desde una carpeta temporal. El entorno aislado debe instalar dependencias compatibles antes de la ejecución real.
+Elegir el kernel del entorno donde se instalaron las dependencias. Se corrigio el error de importacion de SMOTE en Anaconda actualizando imbalanced-learn de 0.10.1 a 0.11.0, compatible con el scikit-learn 1.3.0 instalado. Se verificaron los pipelines de los tres notebooks de Restaurante con SMOTE y una grilla reducida, usando ese mismo entorno.
+
+Despues de actualizar una dependencia, reiniciar el kernel y ejecutar el notebook desde el principio. Para reproducir esta correccion en otro kernel con scikit-learn 1.3.0, ejecutar una vez en una celda:
+
+```python
+%pip install --no-deps imbalanced-learn==0.11.0
+```
 
 Si trabajan en Colab, subir la carpeta con README, notebooks y CSV, y ajustar el directorio de trabajo. La búsqueda de Random Forest puede tardar; se pueden ensayar grillas pequeñas para depurar, pero restaurar y justificar la grilla final antes de reportar resultados.
 

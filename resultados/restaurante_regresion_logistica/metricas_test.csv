@@ -1,0 +1,3 @@
+﻿cupon,algoritmo,variante,elegida_por_cv,f1_macro_cv,clase_minoritaria,precision_si,recall_si,f1_si,f1_macro,recall_minoritaria
+Restaurante(<20),regresion_logistica,sin_balanceo,False,0.6671830877984877,0,0.7956043956043956,0.923469387755102,0.8547815820543092,0.6917586071191086,0.42592592592592593
+Restaurante(<20),regresion_logistica,smote,True,0.6778259329132968,0,0.8450704225352113,0.7653061224489796,0.8032128514056225,0.6980053176695702,0.6604938271604939
